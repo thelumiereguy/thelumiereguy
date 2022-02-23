@@ -2,9 +2,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-09f?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-thelumiereguy/)
 
-![](https://img.shields.io/github/stars/thelumiereguy?color=09f&label=Stars%20Earned&logo=github&style=for-the-badge&labelColor=black)
-
 [![](https://img.shields.io/twitter/follow/thelumiereguy?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@thelumiereguy)](https://twitter.com/thelumiereguy)
+
+![](https://img.shields.io/github/stars/thelumiereguy?color=09f&label=Stars%20Earned&logo=github&style=for-the-badge&labelColor=black)
 
 ## Hey there, I'm **Piyush Pradeepkumar**
 
