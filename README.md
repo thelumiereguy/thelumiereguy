@@ -17,7 +17,7 @@ Besides my work, I love making stuff - **Apps**, **Games**, **Libraries**, **Plu
 
 ### Published Apps/ Plugins - 
 
-- [Compose Helper Plugin](https://plugins.jetbrains.com/plugin/18323-compose-helper) - A IntelliJ IDEA plugin to wrap your Composables with another Composable or to remove them altogether. 
+- [Compose Helper Plugin](https://plugins.jetbrains.com/plugin/18323-compose-helper) - An IntelliJ IDEA plugin to wrap your Composables with another Composable or to remove them altogether.
 
 ### Some of my open source work - 
 
