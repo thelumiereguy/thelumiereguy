@@ -10,10 +10,14 @@
 
 Welcome to my safe haven! :wave:
 
-I work as a Staff Engineer at [Shaadi.com](https://www.shaadi.com), where I handle Android and KMM. I've worked with Flutter and React Native in the past, but I personally prefer native now. I've been in love with **Kotlin**, but **Rust** is my mistress. 
+I work as a Staff Engineer at [Shaadi.com](https://www.shaadi.com), where I handle Android and KMM. I've worked with Flutter and React Native in the past, but I personally prefer native now. I love working with **Kotlin** and **Rust**. 
 </br>
 </br>
 Besides my work, I love making stuff - **Apps**, **Games**, **Libraries**, **Plugins**, etc. Recently, I've been really interested in **Creative Coding** lately, so I started learning about Graphics using [OpenGL](https://thebookofshaders.com/) and [Processing](https://processing.org/) framework. I've also been implementing some of them on [Jetpack Compose's](https://developer.android.com/jetpack/compose?gclid=Cj0KCQiA09eQBhCxARIsAAYRiylVrX1jdnicM47T9optUs5uPtT6xvFesquuJq3BKQO4sZEDJNIfii4aAtw5EALw_wcB&gclsrc=aw.ds) Canvas, which has been a pleasant experience. 
+
+### Published Apps/ Plugins - 
+
+- [Compose Helper Plugin](https://plugins.jetbrains.com/plugin/18323-compose-helper) - A IntelliJ IDEA plugin to wrap your Composables with another Composable or to remove them altogether. 
 
 ### Some of my open source work - 
 
