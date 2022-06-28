@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=thelumiereguy&style=for-the-badge&color=000000)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-09f?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-thelumiereguy/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-09f?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-thelumiereguy/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyushvp1@gmail.com)
 
 [![](https://img.shields.io/twitter/follow/thelumiereguy?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@thelumiereguy)](https://twitter.com/thelumiereguy)
 
