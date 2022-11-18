@@ -10,10 +10,10 @@
 
 Welcome to my safe haven! :wave:
 
-I work as a Staff Engineer at [Shaadi.com](https://www.shaadi.com), where I handle Android and KMM. I've worked with Flutter and React Native in the past, but I personally prefer native now. I love working with **Kotlin** and **Rust**. 
+I work as a Software Engineer at [Delivery Hero](https://www.deliveryhero.com/), where I handle Android and KMM. I've worked with Flutter and React Native in the past, but I personally prefer native now. I love working with **Kotlin** and **Rust**. 
 </br>
 </br>
-Besides my work, I love making stuff - **Apps**, **Games**, **Libraries**, **Plugins**, etc. Recently, I've been really interested in **Creative Coding** lately, so I started learning about Graphics using [OpenGL](https://thebookofshaders.com/) and [Processing](https://processing.org/) framework. I've also been implementing some of them on [Jetpack Compose's](https://developer.android.com/jetpack/compose?gclid=Cj0KCQiA09eQBhCxARIsAAYRiylVrX1jdnicM47T9optUs5uPtT6xvFesquuJq3BKQO4sZEDJNIfii4aAtw5EALw_wcB&gclsrc=aw.ds) Canvas, which has been a pleasant experience. 
+Besides my work, I love making stuff - **Apps**, **Games**, **Libraries**, **Plugins**, etc. Recently, I've been really interested in **Creative Coding**, so I started learning about Graphics using [OpenGL](https://thebookofshaders.com/) and [Processing](https://processing.org/) framework. I've also been implementing some of them on [Jetpack Compose's](https://developer.android.com/jetpack/compose?gclid=Cj0KCQiA09eQBhCxARIsAAYRiylVrX1jdnicM47T9optUs5uPtT6xvFesquuJq3BKQO4sZEDJNIfii4aAtw5EALw_wcB&gclsrc=aw.ds) Canvas, which has been a pleasant experience. 
 
 ### Published Apps/ Plugins - 
 
